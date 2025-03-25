@@ -19,9 +19,4 @@ A  Amazon homepage clone built using **HTML, CSS**, and **JavaScript** to replic
    ```bash
    git clone https://github.com/sonalijadhav8140/AmazonClone.git
 
-   ## 📸 Screenshots
-
-![Amazon Clone Homepage](https://raw.githubusercontent.com/your-username/AmazonClone/main/screenshot1.png)
-
-![Product Grid](https://raw.githubusercontent.com/your-username/AmazonClone/main/screenshot2.png)
-
+ 
