@@ -11,7 +11,7 @@ A  Amazon homepage clone built using **HTML, CSS**, and **JavaScript** to replic
 ## 🛠️ Technologies Used
 - **HTML**: Structure of the webpage  
 - **CSS**: Styling and layout  
-- **JavaScript (if applicable)**: Interactive elements  
+  
 
 
 ## 🚀 How to Run the Project
